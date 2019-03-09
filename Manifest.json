@@ -1,0 +1,18 @@
+{ 
+    "manifest_version": 2,
+    "name": "The Better RMLS",
+    "version": "1",
+    "content_scripts"  [
+        {
+            "matches": [
+                "http://rmls.com/*",
+            ],
+            "js": ["content.js"]
+        }
+       ]
+
+
+
+
+
+}
