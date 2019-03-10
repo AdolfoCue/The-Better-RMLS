@@ -2,17 +2,16 @@
     "manifest_version": 2,
     "name": "The Better RMLS",
     "version": "1",
-    "content_scripts"  [
+    "content_scripts":  [
         {
             "matches": [
-                "http://rmls.com/*",
+                "*://www.rmlsweb.com/*", 
+                "*://www.redfin.com/*" 
             ],
             "js": ["content.js"]
         }
-       ]
-
-
-
-
-
+       ], 
+       "background": {
+           "scripts": ["background.js"]
+       }
 }
