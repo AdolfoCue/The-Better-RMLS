@@ -1,0 +1,90 @@
+﻿Intro:
+
+'Updating the small business Realtors with modern technology to keep us from going extinct to corporations like Redfin and Zillow.' 
+
+Right now I'm just trying to see if this is a good idea or if I'm just imagining these needs in our community. 
+
+
+'After noticing the influence of Redfin and Zillow on our industry, I starting feeling like it's only a matter of time before the small business model for Realtors (like ours) would become the minority and real estate agents would be salaried position with tech companies. My counter to this is to become relevant to the tech industry. So, I joined the Tech Academy for a bootcamp and learned a TON. Now that I'm done with that I'm seeing the amount of possible innovation in this industry and I'm disappointed at how companies like Redfin and Zillow take advantage of this by keeping that innovation behind their doors. So, I'm considering creating a tool for Realtors that makes us as powerful as the Redfin agent and maybe even more powerful because of our simultaneous independence. 
+
+Before making this tool I want to make sure that it's actually a useful idea so I'm talking to a few friends in the industry about what they would want from something like this.' 
+
+'This is not a marketing tool. It will not claim to bring you any leads or anything like that.'
+
+
+
+Age: 45+
+Years as Realtor: 15
+
+Is ease more important than speed? 
+
+Favorite Marketing: Talking to friends
+
+
+
+
+Current experience with technology
+What apps do you currently use for real estate?
+Trello (no longer)
+Google docs EVERYTHING
+Has a Chrome Laptop!!
+
+
+
+Do you ever suggest to your clients to use certain apps?
+NO
+Links from REALTOR.COM
+
+Buyers send her from trulia redfin, zillow etc.. 
+
+
+
+RMLS opinion
+1. How often do you use the RMLS?
+Everyday
+
+
+
+
+(Other than just looking up if a listing is vacant for a showing) what do you use the RMLS for?
+
+Searching for listings, cmas, used to use cloudcma no longer, 
+I like to describe what I'm doing in my CMAs. So I send a link in an email with a description of the comp in the link – why I chose it, why it's different...
+
+
+2. What role does the RMLS play when communicating with your clients?
+
+DRIP.  ← What does this question even mean??
+
+
+
+3. What do your clients usually say about listings or info you send them directly from the RMLS?
+Nothing. During my orientation, I show them a listing from the RMLS so they're already used to it.
+
+ 
+
+4. How do you think the RMLS could improve?
+The map X2 (it should default to burnside and mlk, not the RMLS office..)
+- on advanced search, when I pull up 7 houses on the map, they are displayed using their RMLS number instead of their address so I have to go back and reference every number. It would be great if the address could be used instead. 
+
+Listing link expires – DUMB
+
+Watchlist notes section* and automatic drop off the watchlist upon some event (goes Pending, Sold, etc..) For example:
+“Want this house to drop off the watchlist when one of these things happen?
+[Checkbox] goes Pending
+[Checkbox] goes Active
+[Checkbox] gets Canceled
+etc.. 
+Some other UI would work as well...
+
+
+Notes:
+The sqft breakdown is not nearly as good on Redfin because it doesn't differentiate between levels and often in Portland unfinished basements are counted as additional living sqftage and you don't know unless you compare the pictures to each individual level's square footage*****
+
+
+My take aways:
+She knows that most agents are frustrated with the RMLS but she doesn't think it's that bad. Although she did end up providing some great ideas about how it can improve. 
+She mentioned that the RMLS is always really nice when she calls, and I agree*** Their oldschool hospitality is endearing but would be impenetrable if it was coupled with modern design and technology.
+
+- She sends links from Realtor.com instead of the rmls because their links expire 
+
