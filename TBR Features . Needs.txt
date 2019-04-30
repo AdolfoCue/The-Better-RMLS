@@ -1,0 +1,32 @@
+﻿List of features pre interviews
+
+
+-  Reorganizes the information on the RMLS
+- Larger font by choice
+
+- google maps search of the listing is one click away
+
+
+- Keeps the searches that you've done for certain clients
+- Save specific listings to client profiles
+-  Notes section for listings, viewable by your clients.
+
+- Save and r view a collection of listings.
+
+- Automatically saves closed sales into a certain profile so that you can have the comps for a CMA practically done for you in the future.
+
+- Comparison Mode: keeps subject house and its details in a side bar while you sift through other search results, instead of going back and forth between windows.
+
+ 
+
+
+
+List of needs from interviews
+- A link for listings to send buyers that doesn't expire
+
+- The Map:
+	- starts in middle of pdx instead of RMLS office
+	- Listings labeled on the map should show addresses instead of RMLS number
+		
+- Higher Maximum of watchlist items
+- Automatic drop off of watchlist upon an event (jen)
